@@ -1,0 +1,24 @@
+id: 376b04b4-8805-4149-b6cd-d57db170985a
+type: gateway
+interactions:
+- targetId: 6a71183b-dc1c-4339-a389-8ec9406cfb61
+  type: service
+  level: container
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    578a6b4a-e6d7-4da2-a34b-5fd517568e68:
+      x: 126
+      y: 125.5
+    6a71183b-dc1c-4339-a389-8ec9406cfb61:
+      x: 1235.5
+      y: 125.5
+    51f48c3e-0a90-48fb-9725-41fcdeb5a39f:
+      x: 390.5
+      y: 124.5
+port: 10000
+proxy: traefik
+name: NewGateway
+description: Envoy gateway
+prefix: app

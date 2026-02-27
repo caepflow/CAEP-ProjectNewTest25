@@ -1,0 +1,15 @@
+id: 2726d364-8efe-44e3-9c49-a329318d1d60
+type: entity
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    ff24797c-8cff-4f6a-ba27-42f2027971bb:
+      x: 512.5
+      y: 67.5
+entityType: enum
+name: NewEntityEnum
+enumeratorList:
+- description: New Enum Identifier
+  name: Default
+description: Enum example
